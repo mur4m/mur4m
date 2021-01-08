@@ -43,9 +43,10 @@
 <img align="center" src="https://raw.githubusercontent.com/mur4m/mur4m/main/bubbles-red.gif"/>
 <img align="center" src="https://raw.githubusercontent.com/mur4m/mur4m/main/bubbles-beige.gif"/>
 <img align="center" src="https://raw.githubusercontent.com/mur4m/mur4m/main/bubbles-blue.gif"/>
+<img align="center" src="https://raw.githubusercontent.com/mur4m/mur4m/main/bubbles-blue-rose.gif"/>
 
 
-<img align="center" src="https://raw.githubusercontent.com/mur4m/mur4m/main/techno-banner.gif"/>
+<img align="center" src="https://raw.githubusercontent.com/mur4m/mur4m/main/techno.gif"/>
 
 <img align="center" src="https://raw.githubusercontent.com/mur4m/mur4m/main/web-dev.gif"/>
 
