@@ -38,6 +38,7 @@
 </details>
 ---
 <img align="center" src="https://raw.githubusercontent.com/mur4m/mur4m/main/shapes.gif"/>
+<img align="center" src="https://raw.githubusercontent.com/mur4m/mur4m/main/dev-web.gif"/>
 
 ### Hi there 👋 I'm Dhanraj
 
