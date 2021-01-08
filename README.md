@@ -65,7 +65,7 @@
 ## ABOUT ME
 - 📱 App Developer
 - 📹 YouTuber
----
+--- 
 ## MY GIT STATS
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dhanrajdc7&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanrajdc7&hide=TeX&layout=compact)
