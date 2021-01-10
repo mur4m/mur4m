@@ -1,5 +1,7 @@
 <img align="center" src="https://raw.githubusercontent.com/mur4m/mur4m/main/bubbles-blue-rose.gif"/>
 
+>keep smiling !
+
 ### Hi there, I'm Muram - aka mur4m 👋
 
 <h3 align="center">welcome to my world!</h3>
