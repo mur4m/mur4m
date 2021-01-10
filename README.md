@@ -24,15 +24,18 @@
 - 📹 I enjoy reading about traditional medecine, photography, swimming and starting randomn projects
 
 [![Linkedin Badge](https://img.shields.io/badge/-dhanrajdc7-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanrajdc7/)](https://www.linkedin.com/in/dhanrajdc7/)
+
+---
+## WORKING ON..
+- 🔭 I’m currently working on [amazon-clone](https://github.com/mur4m/amazon-clone)
+
+- 👨‍💻 All of my projects are available at [muram-portfolio](https://muram-portfolio.web.app/)
+
 --- 
 
 ## MY GIT STATS
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mur4m&label=Profile%20views&color=0e75b6&style=flat" alt="mur4m" /> </p>
-
-- 🔭 I’m currently working on [amazon-clone](https://github.com/mur4m/amazon-clone)
-
-- 👨‍💻 All of my projects are available at [https://github.com/mur4m](https://github.com/mur4m)
 
 - ⚡ Fun fact **Only I find my jokes funny so I will spare you!**
 
