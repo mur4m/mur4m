@@ -15,14 +15,14 @@
 ---
 
 ## ABOUT ME
-- 📱 Pursuing a new career after some time in the event industry 
+- 📱 Web developper specialised in front-end
 - 📹 I enjoy reading about traditional medecine, photography, swimming and starting randomn projects
 
 ![Linkedin Badge](https://img.shields.io/badge/-muram-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/muramm/)
 
 ---
 ## WORKING ON..
-- 🔭 I’m currently working on [amazon-clone](https://github.com/mur4m/amazon-clone)
+- 🔭 I’m currently working on making my town's chess club visible on social media
 
 - 👨‍💻 All of my projects are available at [muram-portfolio](https://muram-portfolio.web.app/)
 
